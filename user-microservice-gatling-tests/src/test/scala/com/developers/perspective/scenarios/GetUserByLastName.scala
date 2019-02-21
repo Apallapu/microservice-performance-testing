@@ -4,7 +4,7 @@ import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 
 /**
-  * Created by dmumma on 11/20/15.
+  * Created by ankamma pallapu
   */
 object GetUserByLastName {
 
